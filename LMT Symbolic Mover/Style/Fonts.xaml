@@ -1,0 +1,9 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:LMT_Symbolic_Mover"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+    <FontFamily x:Key="FontAwesome">pack://appliction;,,,/Font/#FontAwesome</FontFamily>
+    <system:String x:Key="OpenFolderIcon">&#xf114;</system:String>
+    <system:String x:Key="StartIcon">&#xf085;</system:String>
+    
+</ResourceDictionary>
